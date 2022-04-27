@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\Proyectos\\HarlinAceroWork\\HarlinAceroWork\\HarlinAceroWork.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\Proyectos\\firstPageMvc\\HarlinAceroWork\\HarlinAceroWork.csproj",
       "projectName": "HarlinAceroWork",
-      "projectPath": "C:\\Users\\LENOVO\\Documents\\Proyectos\\HarlinAceroWork\\HarlinAceroWork\\HarlinAceroWork.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Documents\\Proyectos\\firstPageMvc\\HarlinAceroWork\\HarlinAceroWork.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Documents\\Proyectos\\HarlinAceroWork\\HarlinAceroWork\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Documents\\Proyectos\\firstPageMvc\\HarlinAceroWork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
